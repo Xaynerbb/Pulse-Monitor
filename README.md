@@ -50,7 +50,7 @@ devops-monitor/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Xaynerbb/devops-monitor.git
+git clone https://github.com/Xaynerbb/Pulse-Monitor.git
 cd devops-monitor
 ```
 
